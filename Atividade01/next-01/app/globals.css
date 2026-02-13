@@ -1,2 +1,19 @@
 @import "tailwindcss";
 
+body {
+  background-color: #f9d37a;
+  color:#2c2c2c;
+}
+h1,h2{
+  font-weight: 500;
+  max-width:800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px
+}
+.credt { 
+  margin-top: 50px;
+  text-align: center;
+  font-style: italic;
+  opacity: 0.8; 
+}
