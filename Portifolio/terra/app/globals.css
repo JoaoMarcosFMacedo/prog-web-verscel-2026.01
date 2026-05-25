@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.caixas{
+  color: red;
+  font-weight: negrito;
+}
+body {
+  background-color:pink;
+  
+}
